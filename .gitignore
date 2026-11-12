@@ -1,0 +1,18 @@
+# Firmware build output
+firmware/build/
+
+# Host test binaries and WAV renders
+firmware/test/host/build/
+firmware/test/host/out/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+tools/out/
+
+# STM32CubeIDE workspace metadata (created on import)
+.metadata/
+.settings/
+Debug/
+Release/
