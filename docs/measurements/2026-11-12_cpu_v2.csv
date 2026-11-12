@@ -1,0 +1,8 @@
+chain,est_cost,cpu_max_pct,mem_used_bytes
+"Overdrive, Chorus (off), Digital Delay, Hall (default)",1660,41,114928
+"Compressor, Phaser, Ping-Pong, Plate",1840,49,110800
+"Fuzz, Rotary, Tape Echo, Shimmer",2010,54,105328
+"Octaver, Harmonizer, Detune, Spring",2100,58,40168
+"Overdrive, Flanger, Mod Delay, Hall",1750,48,114928
+"Auto-Wah, Chorus, Reverse Delay, Room",1540,35,99576
+"Overdrive, Looper",660,12,90112
